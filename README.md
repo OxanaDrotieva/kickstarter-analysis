@@ -5,3 +5,5 @@ Performing analysis on Kickstarter data to uncover trends
 
 ![Subcategory_Outcome_All.png](./Subcategory_Outcome_ALL.png)
 
+![Subcategory_Outcome_GB.png](./Subcategory_Outcome_GB.png)
+
